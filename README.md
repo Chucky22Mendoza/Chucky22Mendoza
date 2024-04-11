@@ -1,5 +1,7 @@
 ## Hello World 👋 It's [Jesús!](https://jesus-mendoza.pages.dev)
-I'm a Frontend developer with [React](https://reactjs.org).
+[![wakatime](https://wakatime.com/badge/user/018af0d8-158a-49e2-9d34-d2d1ce3db71d.svg)](https://wakatime.com/@018af0d8-158a-49e2-9d34-d2d1ce3db71d)
+<br/>
+I'm a Frontend developer with [React](https://reactjs.org) and [Next](http://nextjs.org)
 
 <br/>
 
@@ -9,26 +11,27 @@ I'm a Frontend developer with [React](https://reactjs.org).
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jfif" width="240px" />
+<img align="right" alt="GIF" src="./assets/banner.jfif" width="200px" />
 
+<br />
+<br />
 <br />
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [Vercel](https://vercel.com).
-- 🌱 I’m currently working with [React](https://reactjs.org).
-- 👯 Owner of a Developer Community.
-- 💬 Creating content in [my blog](https://blog.gonzalopozzo.com), [Twitch](https://twitch.gonzalopozzo.com) and [YouTube](https://youtube.gonzalopozzo.com).
+- 🔭 I’m currently working @ [Xilion.io](https://xilion.io).
+- 🌱 I’m currently working with [React](https://reactjs.org) and [Next](https://nextjs.org).
+- 💬 Creating UI Components
 
 <br />
 
 ## Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<img align="left" alt="Languages stats" src="https://wakatime.com/share/@Chucky22Mendoza/65d248fb-d0ce-4da0-ae95-8b29fce24b43.png" width="600px" />
+
+<br />
+<br />
+<br />
+
+<img align="left" alt="Time stats" src="https://wakatime.com/share/@Chucky22Mendoza/a8b61cee-e93b-469f-8d11-fbedddfbda48.png" width="300px" />
 
 ---
-
-![Goncy's github stats](https://github-readme-stats.vercel.app/api?username=goncy&show_icons=true&hide_border=true)
