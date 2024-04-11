@@ -9,7 +9,7 @@ I'm a Frontend developer with [React](https://reactjs.org).
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+<img align="right" alt="GIF" src="./assets/banner.jfif" width="240px" />
 
 <br />
 
