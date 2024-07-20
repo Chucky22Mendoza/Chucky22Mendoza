@@ -19,7 +19,7 @@ I'm a Frontend developer with [React](https://reactjs.org) and [Next](http://nex
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [Xilion.io](https://xilion.io).
+- 🔭 I’m currently working @ [AI27](https://ai27.com/).
 - 🌱 I’m currently working with [React](https://reactjs.org) and [Next](https://nextjs.org).
 - 💬 Creating UI Components
 
